@@ -1,0 +1,16 @@
+{
+  "enabled": true,
+  "updated": "2026-11-03 15:20",
+  "items": [
+    {
+      "id": "sources",
+      "text": "直播源和点播源都不内置，请先在「设置」里导入 txt 清单。",
+      "level": "info"
+    },
+    {
+      "id": "source-update",
+      "text": "直播源失效时，进「设置 → 直播源」点「全部更新」。",
+      "level": "info"
+    }
+  ]
+}
