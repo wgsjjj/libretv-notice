@@ -1,23 +1,19 @@
 {
   "enabled": true,
-  "updated": "2026-11-05 16:05:00",
+  "updated": "2026-11-05 16:35:00",
   "items": [
     {
-      "id": "update-2.2.5",
-      "title": "版本更新",
-      "text": "LibreTV TV v2.2.5 已发布。\n\n本次更新：\n· 新增重要公告弹窗，重要通知第一时间送达\n· 直播页支持全天节目单，频道列表改版\n· 新增启动与自启、家长控制\n\n建议更新到最新版本，直播体验更完整。",
+      "id": "wechat-2026-11",
+      "title": "关注公众号 W.技术站",
+      "text": "关注微信公众号《W.技术站》。\n\n后续版本更新都在公众号通知，防止失联。\n\n没有直播源、点播源，可以进公众号获取。",
       "level": "danger",
-      "popup": true
+      "popup": true,
+      "image": "wechat-qr.png"
     },
     {
       "id": "no-gambling",
       "text": "友情提示：请勿相信视频中任何广告，远离赌博，珍爱生命！",
       "level": "danger"
-    },
-    {
-      "id": "sources",
-      "text": "关注微信公众号《W.技术站》获取最新直播源和点播源，右侧反馈可扫码。",
-      "level": "info"
     },
     {
       "id": "source-update",
